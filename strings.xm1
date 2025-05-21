@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorldTwoActivities</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="go_to_second">Go to Second Activity</string>
+    <string name="second_screen">Welcome to the Second Activity!</string>
+</resources>
